@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Declan Harrison"
   avatar           : "profile.png"
-  bio              : "MSE CIS University of Pennsylvania"
+  bio              : "MSE CIS @ University of Pennsylvania"
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

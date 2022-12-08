@@ -15,8 +15,8 @@ Education
   * M.S.E., Computer and Information Science, May 2023
   * Advisors: Michael Kearns and Aaron Roth
 * **United States Naval Academy**, Annapolis, Maryland USA
-  * B.S., Mathematics (Honors), May 2021
-  * Spanish Minor, Graduate with Distinction
+  * B.S., Mathematics (Honors) and Spanish (minor), May 2021
+  * Graduate with Distinction
   * Advisor: Kate Thompson, Thesis - An Introduction to Supersingular Isogeny Graphs with Cryptographic Applications
 * **Budapest Semesters in Mathematics**, Budapest, VII. (district 7), Hungary
   * Semseter Abroad, Spring 2020
