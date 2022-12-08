@@ -11,49 +11,59 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer and Information Science, University of Pennsylvania (UPenn), expected 2023 
+  * Thesis topic: Machine Learning Fairness, Advised by Michael Kearns/Aaron Roth
+* B.S. in Mathematics (Honors), United States Naval Academy (USNA), 2021
+  * Spanish Minor, Graduate with Distinction
+* Semseter Abroad, Budapest Semesters in Mathematics, Spring 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2021 - Current: Naval Officer, USN
+* Summer 2022 - Current: Research Assistant, UPenn
+  * Advisors: Michael Kearns, Aaron Roth
+* Summer 2018: Cyber Intern, BAE Systems
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Dr. John J. McMullen Fellowship (UPenn)
+* Immediate Graduate Education Program (USNA)
+* Naval Intelligence Foundation Award, Nominee (USNA)
+* NSF Graduate Research Fellowship Program, Honorable Mention
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Spring 2023: Teaching Assitant, CIS 523 Ethical Algorithm Design, UPenn
+* Spring 2021: Midshipman Group Study Program  Leader, SM291 Fundamentals of Mathemcatics, USNA
+* Fall 2020: Midshipman Group Study Program Leader, SY201 Cyber Fundamentals I , USNA
+* Fall 2019: Midshipman Group Study Program  Leader, SY201 Cyber Fundamentals I , USNA
+Skills
+======
+* Programming Languages
+  * Python
+  * C/C++
+  * MATLAB
+* ML Frameworks
+  * Sklearn
+  * PyTorch
+* Operating Systems
+  * Linux
+  * Windows
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Fall 2020: Brigade Assistant Operations Officer, USNA
+* Fall 2020: Brigade Academics Officer, USNA
+* Summer 2020: 6th Company Plebe Summer Executive Officer, USNA
