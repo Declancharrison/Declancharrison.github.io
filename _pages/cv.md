@@ -33,10 +33,10 @@ Work experience
 
 Awards
 ======
-* Dr. John J. McMullen Fellowship (UPenn), 2021 - 2023.
-* Immediate Graduate Education Program (USNA), 2021 - 2023.
-* Naval Intelligence Foundation Award, Nominee (USNA), 2021.
-* NSF Graduate Research Fellowship Program, Honorable Mention, 2021.
+* Dr. John J. McMullen Fellowship (UPenn), 2021 - 2023
+* Immediate Graduate Education Program (USNA), 2021 - 2023
+* Naval Intelligence Foundation Award, Nominee (USNA), 2021
+* NSF Graduate Research Fellowship Program, Honorable Mention, 2021
 
 <!-- Publications
 ======
@@ -52,24 +52,24 @@ Awards
   
 Teaching
 ======
-* Teaching Assitant, CIS 523 Ethical Algorithm Design, UPenn, Spring 2023.
-* Midshipman Group Study Program  Leader, SM291 Fundamentals of Mathemcatics, USNA, Spring 2021.
-* Midshipman Group Study Program Leader, SY201 Cyber Fundamentals I, USNA, Fall 2020.
-* Midshipman Group Study Program  Leader, SY201 Cyber Fundamentals I, USNA, Fall 2019.
+* Teaching Assitant, CIS 523 Ethical Algorithm Design, UPenn, Spring 2023
+* Midshipman Group Study Program  Leader, SM291 Fundamentals of Mathemcatics, USNA, Spring 2021
+* Midshipman Group Study Program Leader, SY201 Cyber Fundamentals I, USNA, Fall 2020
+* Midshipman Group Study Program  Leader, SY201 Cyber Fundamentals I, USNA, Fall 2019
 
 Skills
 ======
+* Cyber
+  * Binary Exploitation, Reverse Engineering, Cryptography
 * Programming Languages
-  * Python
-  * C/C++
-  * MATLAB
+  * Python, C/C++, MATLAB
 * ML Frameworks
-  * Sklearn
-  * PyTorch
+  * Sklearn, PyTorch
 * Operating Systems
-  * Linux
-  * Windows
-
+  * Ubuntu, Kali Linux, Windows
+* Languages
+  * English, Spanish
+  
 Service and leadership
 ======
 * Brigade Assistant Operations Officer, USNA, Fall 2020.
