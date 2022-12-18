@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Declan Harrison"
-  avatar           : "/images/profile_picture.png"
+  avatar           : "profile_picture.jpg"
   bio              : "MSE CIS @ University of Pennsylvania"
   location         : "Philadelphia, PA"
   employer         :
