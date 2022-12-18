@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Aramark_B&W.JPG'>"
+title: "Project 1"
+excerpt: "Talk about project here on first page"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<br/><img src='/images/Aramark_B&W.JPG'>
+
+This is your actual area to talk about project on new page
