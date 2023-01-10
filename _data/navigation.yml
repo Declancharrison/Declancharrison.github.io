@@ -1,14 +1,14 @@
 # main links links
 main:
   
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   - title: "CV"
     url: /cv/
 
-  - title: "Misc"
-    url: /misc/  
+  # - title: "Misc"
+  #   url: /misc/  
 
   # #TODO: readd when you get publications
   #   - title: "Publications"
@@ -19,6 +19,6 @@ main:
 
   # - title: "Blog Posts"
   #   url: /year-archive/
-  # #TODO: delete for future use
+  #TODO: delete for future use
   # - title: "Guide"
   #   url: /markdown/
