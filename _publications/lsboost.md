@@ -10,7 +10,7 @@ citation: '<i>Multicalibration as Boosting for Regression </i>.Globus-Harris, Ha
 ---
 LS Boost.
 
-[Download paper here](http://declancharrison.github.io/files/multical-arxiv.pdf)
+You can [download paper here](http://declancharrison.github.io/files/multical-arxiv.pdf)
 
 <i>Multicalibration as Boosting for Regression </i>.Globus-Harris, Harrison, Kearns, Roth, Sorrell. <i>Manuscript </i>.
 
