@@ -5,7 +5,7 @@ permalink: /publication/lsboost
 excerpt: 'LS Boost.'
 date: 2023-02-01
 venue: 'Manuscript'
-paperurl: 'http://declancharrison.github.io/files/multical-arxiv.pdf'
+paperurl: 'http://declancharrison.github.io/files/lsboost-arxiv.pdf'
 citation: '<i>Multicalibration as Boosting for Regression </i>.Globus-Harris, Harrison, Kearns, Roth, Sorrell. <i>Manuscript </i>.'
 ---
 LS Boost.
