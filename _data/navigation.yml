@@ -11,8 +11,8 @@ main:
   #   url: /misc/  
 
   # #TODO: readd when you get publications
-  #   - title: "Publications"
-  #   url: /publications/
+    - title: "Publications"
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    

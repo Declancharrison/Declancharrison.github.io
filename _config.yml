@@ -86,7 +86,7 @@ author:
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=srs84MYAAAAJ&view_op=list_works&gmla=AJsN-F6ZQXl1yz6HBzzGrtWvIMMXXqJ9mUHSeWiuqv4-2p1hivE8PKAbva5QCYpWeCAUwtQeBx0iojoPWXFzAjU6qzH6DA_d8sAMJQ15PAGA37CaS8F9oryTUNF9x5wJ98oX48f5VTqMO-RVtPmc1DZLE0QEzvHh4A"
   email            : "declanh@seas.upenn.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
