@@ -12,7 +12,7 @@ main:
 
   # #TODO: readd when you get publications
   - title: "Publications"
-  url: /publications/
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
