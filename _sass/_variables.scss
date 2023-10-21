@@ -86,6 +86,7 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
+$text-color : $primary-color;
 @if $dark-mode {
    // dark mode
    $body-color                 : #fff;
