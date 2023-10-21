@@ -92,7 +92,7 @@ $code-background-color         : null;
 $code-background-color-dark    : null;
 $text-color                    : null;
 $border-color                  : null;
-@if $dark-mode {
+@if $dark-mode == true {
    // dark mode
    $body-color                 : $light-gray;
    $background-color           : $light-gray;
