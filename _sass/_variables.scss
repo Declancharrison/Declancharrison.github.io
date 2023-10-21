@@ -86,30 +86,29 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
-$body-color                    : null;
-$background-color              : null;
-$code-background-color         : null;
-$code-background-color-dark    : null;
-$text-color                    : null;
-$border-color                  : null;
-@if $dark-mode == true {
+   $body-color                 : #fff;
+   $background-color           : #fff;
+   $code-background-color      : #fafafa;
+   $code-background-color-dark : $light-gray;
+   $text-color                 : $dark-gray;
+   $border-color               : $lighter-gray;
+
+@if $dark-mode{
    // dark mode
+
+   $gray                       : #7a8288;
+   $dark-gray                  : mix(#000, $gray, 40%);
+   $darker-gray                : mix(#000, $gray, 80%);
+   $light-gray                 : mix(#fff, $gray, 50%);
+   $lighter-gray               : mix(#fff, $gray, 90%);
+
    $body-color                 : $light-gray;
-   $background-color           : $light-gray;
-   $code-background-color      : $dark-gray;
-   $code-background-color-dark : $dark-gray;
+   $background-color           : $darker-gray;
+   $code-background-color      : $light-gray;
+   $code-background-color-dark : $light-gray;
    $text-color                 : #fff;
    $border-color               : $lighter-gray;
 } 
-// @else {
-//    // light mode
-//    $body-color                 : #fff;
-//    $background-color           : #fff;
-//    $code-background-color      : #fafafa;
-//    $code-background-color-dark : $light-gray;
-//    $text-color                 : $dark-gray;
-//    $border-color               : $lighter-gray;
-// }
 
 /* links */
 $link-color                 : $info-color;
