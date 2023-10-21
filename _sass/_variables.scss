@@ -46,7 +46,7 @@ $type-size-8                : 0.625em;  // ~10px
    Theme
 */
 
-$dark_mode                  : True;
+$dark_mode                  : true;
 
 /*
    Colors
@@ -86,7 +86,7 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
-@if $dark_mode{
+@if $dark_mode {
    // dark mode
    $body-color                 : #fff;
    $background-color           : #fff;
@@ -103,7 +103,7 @@ $xing-color                 : #006567;
    $code-background-color-dark : $dark-gray;
    $text-color                 : #fff;
    $border-color               : $lighter-gray;
-   }
+}
 
 /* links */
 $link-color                 : $info-color;
