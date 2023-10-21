@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year M.S.E. student studying Computer and Information Science at the University of Pennsylvania. I'm particularly interestesd in machine learning and algorthmic fairness, working with [Professor Michael Kearns](https://www.cis.upenn.edu/~mkearns/) and [Professor Aaron Roth](https://www.cis.upenn.edu/~aaroth/).
+I am a research affiliate in the Kearns-Roth research group at the University of Pennsylvania. I received my M.S.E. in Computer and Information Science from the Unviersity of Pennsylvania where I was advised by [Michael Kearns](https://www.cis.upenn.edu/~mkearns/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/). My researchs interests are aligned with machine learning "red-teaming", namely algorthmic fairness in ML, prompt engineering, and vulnerability testing in model deployments. 
 
-Before graduate school, I was a Midshipman at the United States Naval Academy where I recieved a B.S. in Mathematics. My wonderful advisor [Professor Kate Thompson](https://sites.google.com/site/katethompsonhomepage/?pli=1) advised an expository thesis in post-quantum cryptography.
+Proir to Penn, I received a B.S in Mathematics from the United States Naval Academy and commissioned into the US Navy. 
 
 <!-- A data-driven personal website
 ====== -->

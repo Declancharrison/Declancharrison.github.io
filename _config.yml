@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Declan C. Harrison"
+title                    : "Declan Harrison"
 title_separator          : "-"
 name                     : &name "Declan Harrison"
-description              : &description "A cyber/ML learner."
+description              : &description "ML+Cyber Enthusiast."
 url                      : https://Declancharrison.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Declancharrison/Declancharrison.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Declan Harrison"
   avatar           : "profile_picture.jpg"
-  bio              : "MSE CIS @ University of Pennsylvania"
-  location         : "Philadelphia, PA"
+  bio              : 
+  location         : "Severn, MD"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=srs84MYAAAAJ&view_op=list_works&gmla=AJsN-F6ZQXl1yz6HBzzGrtWvIMMXXqJ9mUHSeWiuqv4-2p1hivE8PKAbva5QCYpWeCAUwtQeBx0iojoPWXFzAjU6qzH6DA_d8sAMJQ15PAGA37CaS8F9oryTUNF9x5wJ98oX48f5VTqMO-RVtPmc1DZLE0QEzvHh4A"
-  email            : "declanh@seas.upenn.edu"
+  email            : "declancharrison@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
