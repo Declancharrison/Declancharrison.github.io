@@ -94,20 +94,20 @@ $text-color                    : null;
 $border-color                  : null;
 @if $dark-mode {
    // dark mode
-   $body-color                 : #fff;
-   $background-color           : #fff;
-   $code-background-color      : #fafafa;
-   $code-background-color-dark : $light-gray;
-   $text-color                 : $dark-gray;
-   $border-color               : $lighter-gray;
-} 
-@else {
-   // light mode
    $body-color                 : $light-gray;
    $background-color           : $light-gray;
    $code-background-color      : $dark-gray;
    $code-background-color-dark : $dark-gray;
    $text-color                 : #fff;
+   $border-color               : $lighter-gray;
+} 
+@else {
+   // light mode
+   $body-color                 : #fff;
+   $background-color           : #fff;
+   $code-background-color      : #fafafa;
+   $code-background-color-dark : $light-gray;
+   $text-color                 : $dark-gray;
    $border-color               : $lighter-gray;
 }
 
