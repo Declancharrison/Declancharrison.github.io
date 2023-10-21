@@ -46,7 +46,7 @@ $type-size-8                : 0.625em;  // ~10px
    Theme
 */
 
-$dark-mode                  : true;
+$dark-mode                  : 1;
 
 /*
    Colors
@@ -87,6 +87,7 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 $text-color : $primary-color;
+
 @if $dark-mode {
    // dark mode
    $body-color                 : #fff;
@@ -95,7 +96,6 @@ $text-color : $primary-color;
    $code-background-color-dark : $light-gray;
    $text-color                 : $dark-gray;
    $border-color               : $lighter-gray;
-   
 } 
 @else {
    // light mode
