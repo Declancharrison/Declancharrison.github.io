@@ -168,6 +168,10 @@
   border: 1px solid $border-color;
   border-radius: $border-radius;
   background: #fff;
+  @import "variables";
+  @if $dark-mode {
+    background: $dark-gray;
+  }
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
